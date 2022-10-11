@@ -8,4 +8,4 @@
 /// A Very Good Project created by Very Good CLI.
 library fi_theme;
 
-export 'src/fi_theme.dart';
+export './src/color_schemes.g.dart';
